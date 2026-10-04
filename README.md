@@ -1,18 +1,17 @@
-# Обо мне
+## Привет! Я Купцов Николай 👋
 
-Я разработчик годоми опыта в мобильной разработке 
+Разрабатываю приложения на Kotlin. Мне интересны архитектура, работа с данными и создание понятных интерфейсов.
 
-## Чем занимаюсь
+### Технологии
 
-- Разрабатываю интерфейсы, пользовательские сценарии и бизнес-логику.
-- Создаю серверные API и интеграции с внешними сервисами.
-- Реализую хранение, кэширование и синхронизацию данных.
-- Настраиваю автоматизацию процессов и обмен данными на n8n.
-- Работаю с автоматическими тестами, Docker и CI/CD.
+| Направление | Стек |
+| :--- | :--- |
+| 📱 **Android и UI** | Kotlin · Jetpack Compose · Material 3 · Navigation Compose |
+| 🧩 **Архитектура** | Clean Architecture · MVI · модульная структура · Kotlin Multiplatform |
+| ⚡ **Асинхронность** | Coroutines · Flow |
+| 🌐 **Сеть и данные** | Ktor · kotlinx.serialization · Room · DataStore |
+| 🔧 **Инфраструктура** | Hilt · Firebase Authentication · Firebase Analytics |
+| 🤖 **AI** | Koog · OpenRouter |
+| 🧪 **Тестирование** | JUnit · MockK · Turbine · Compose UI Tests |
 
-## Основной стек
-
-- Mobile: Kotlin, Jetpack Compose, KMP, , MVI, Coroutines, Flow.
-- Backend: Java, Spring Boot, REST API, Kafka.
-- Данные: Apache Spark, PySpark, Room, Caffeine, Hibernate,JDBC.
-- Инструменты: Git, Docker, Docker Compose, GitHub Actions, n8n.
+---
