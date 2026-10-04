@@ -1,16 +1,20 @@
-## Hi there 👋
+# Обо мне
 
-<!--
-**shikaprime/shikaprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик с двумя годами опыта в мобильной разработке 
 
-Here are some ideas to get you started:
+Основные направления — Android-приложения на Kotlin и серверная разработка на Java/Spring Boot. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Чем занимаюсь
+
+- Разрабатываю интерфейсы, пользовательские сценарии и бизнес-логику.
+- Создаю серверные API и интеграции с внешними сервисами.
+- Реализую хранение, кэширование и синхронизацию данных.
+- Настраиваю автоматизацию процессов и обмен данными на n8n.
+- Работаю с автоматическими тестами, Docker и CI/CD.
+
+## Основной стек
+
+- Mobile: Kotlin, Jetpack Compose, KMP, , MVI, Coroutines, Flow.
+- Backend: Java, Spring Boot, REST API, Kafka.
+- Данные: Apache Spark, PySpark, Room, Caffeine, Hibernate,JDBC.
+- Инструменты: Git, Docker, Docker Compose, GitHub Actions, n8n.
